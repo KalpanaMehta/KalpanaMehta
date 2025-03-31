@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KalpanaMehta
-- 👀 I’m interested in C++,SQL,Python, Data Structure and Algorithm, DBMS
+- 👀 I’m interested in Java, Hibernate, Spring Boot, SQL,Python, Data Structure and Algorithm, DBMS
 - 🌱 I’m currently learning Machine Learning .
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kalpana.mehta22a@gmail.com
